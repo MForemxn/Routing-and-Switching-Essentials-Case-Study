@@ -4,7 +4,7 @@
 This repository contains the Packet Tracer configuration files for our enterprise network design project. The network integrates static routing, OSPF, VLAN segmentation, DHCP, NAT/PAT, and wireless connectivity.
 
 **Start Date:** March 31, 2025  
-**Due Date:** May 1, 2025
+**Due Date:** May 9, 2025
 
 ## Repository Structure
 ```
