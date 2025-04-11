@@ -15,6 +15,7 @@
 ||FastEthernet1/0|192.168.0.121/30|
 |**R5**|FastEthernet0/0|172.10.0.129/28|
 ||FastEthernet0/1|192.168.0.118/30|
+||Ethernet1/0|192.168.0.125/30|
 |**R6**|FastEthernet0/0|172.10.0.1/25|
 ||FastEthernet0/1|192.168.0.122/30|
 ||Ethernet1/0|172.16.0.1/30|
