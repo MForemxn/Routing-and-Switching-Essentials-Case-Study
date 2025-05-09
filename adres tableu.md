@@ -46,6 +46,8 @@
 | Host D        | NIC         | 172.10.0.2/25    |                        |
 |               | Default GW  | 172.10.0.1/25    |                        |
 |               |             |                  |                        |
+| Wireless AP   | Internet    | 172.10.0.158/30  |                        |
+|               |             |                  |                        |
 | Mobile Host   | NIC         | DHCP             |                        |
 |               |             |                  |                        |
 | External Host | NIC         | 138.25.88.86/30  |                        |
